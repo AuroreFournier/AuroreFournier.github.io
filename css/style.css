@@ -1,0 +1,28 @@
+body{
+    color: black;
+    background-color: rgba(163, 70, 53, 0.904);
+}
+
+h1{
+ color: black;
+    size: ;
+}
+
+h2{
+    color: rgb(73, 16, 16);
+}
+#CV{
+    margin: 0 auto;
+    width: 800px;
+text-align: center;
+align-content: center;
+background-color: papayawhip;
+}
+
+#contact{
+    margin-right: 40px;
+}
+
+#HS{
+margin-right: 40px;
+}
